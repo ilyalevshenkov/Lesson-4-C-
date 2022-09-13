@@ -1,0 +1,15 @@
+/Users/ilyalevshenkov/Desktop/Lesson4/Ex/Ex25/bin/Debug/net6.0/Ex25
+/Users/ilyalevshenkov/Desktop/Lesson4/Ex/Ex25/bin/Debug/net6.0/Ex25.deps.json
+/Users/ilyalevshenkov/Desktop/Lesson4/Ex/Ex25/bin/Debug/net6.0/Ex25.runtimeconfig.json
+/Users/ilyalevshenkov/Desktop/Lesson4/Ex/Ex25/bin/Debug/net6.0/Ex25.dll
+/Users/ilyalevshenkov/Desktop/Lesson4/Ex/Ex25/bin/Debug/net6.0/Ex25.pdb
+/Users/ilyalevshenkov/Desktop/Lesson4/Ex/Ex25/obj/Debug/net6.0/Ex25.csproj.AssemblyReference.cache
+/Users/ilyalevshenkov/Desktop/Lesson4/Ex/Ex25/obj/Debug/net6.0/Ex25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyalevshenkov/Desktop/Lesson4/Ex/Ex25/obj/Debug/net6.0/Ex25.AssemblyInfoInputs.cache
+/Users/ilyalevshenkov/Desktop/Lesson4/Ex/Ex25/obj/Debug/net6.0/Ex25.AssemblyInfo.cs
+/Users/ilyalevshenkov/Desktop/Lesson4/Ex/Ex25/obj/Debug/net6.0/Ex25.csproj.CoreCompileInputs.cache
+/Users/ilyalevshenkov/Desktop/Lesson4/Ex/Ex25/obj/Debug/net6.0/Ex25.dll
+/Users/ilyalevshenkov/Desktop/Lesson4/Ex/Ex25/obj/Debug/net6.0/refint/Ex25.dll
+/Users/ilyalevshenkov/Desktop/Lesson4/Ex/Ex25/obj/Debug/net6.0/Ex25.pdb
+/Users/ilyalevshenkov/Desktop/Lesson4/Ex/Ex25/obj/Debug/net6.0/Ex25.genruntimeconfig.cache
+/Users/ilyalevshenkov/Desktop/Lesson4/Ex/Ex25/obj/Debug/net6.0/ref/Ex25.dll
